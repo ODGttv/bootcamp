@@ -1,0 +1,7 @@
+C:\Users\Jonathan\source\repos\BootCampPrep\bin\Debug\BootCampPrep.exe.config
+C:\Users\Jonathan\source\repos\BootCampPrep\bin\Debug\BootCampPrep.exe
+C:\Users\Jonathan\source\repos\BootCampPrep\bin\Debug\BootCampPrep.pdb
+C:\Users\Jonathan\source\repos\BootCampPrep\obj\Debug\BootCampPrep.csprojAssemblyReference.cache
+C:\Users\Jonathan\source\repos\BootCampPrep\obj\Debug\BootCampPrep.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\source\repos\BootCampPrep\obj\Debug\BootCampPrep.exe
+C:\Users\Jonathan\source\repos\BootCampPrep\obj\Debug\BootCampPrep.pdb
